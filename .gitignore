@@ -1,3 +1,10 @@
+.gitignore
+#my specifc files
+example_out.sv
+tb_test_verilog.sv
+test_verilog.sv
+test.py
+.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
